@@ -4,7 +4,7 @@ const fs = require('fs');
 const prefix = "$";
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag} !`);
-          client.user.setActivity("νι¢тσяу ¢ℓαη  , $credit .",{type: 'WATCHING'});
+          client.user.setActivity("νι¢тσяу ¢ℓαη  , $credit ",{type: 'WATCHING'});
  
   });
   
